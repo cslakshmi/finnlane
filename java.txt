@@ -1,0 +1,7 @@
+This is just a basc introduction file.
+
+<html>
+<head>
+<title> This is a basic example </title>
+</head>
+</html>
